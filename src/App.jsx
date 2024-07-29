@@ -23,7 +23,7 @@ function App() {
   };
 
   return (
-    <div className="calculator">
+    <div className="calculadora">
       <div className="display">{input}</div>
       <div className="buttons">
         <button onClick={() => clicar('1')}>1</button>
